@@ -1,3 +1,7 @@
 db:
  name: "Cassandra DB Dev 22222"
  password: '{cipher}AQA3yc20E4YAcYeOsZVOXVDqiMu+pvdD/Tfxq6E2BiSMXbG6c2iATd6Wcv+DuPAD8O789Igh7J7A/jfJFWNAWapMBezWBSabm5BT+ENN3wN7HFwB0kq2rct2kwViM6ga0alx1PCjyZIzfs1LDvuZ89x2LJKAV0p1ZCr6o3rR0cAl0LQCG8ZODm4mWTJOVhbACA7mPQrD7Q/1A78+PZc+Rnl/mMGOeLYFT4pD7XP+uTkg6lvl7UF3l/NpDhCQSDci9J8xX51xHRh1dvDBLjBQ0ou1drZtPnY2sMJ7Em7hhZ/xK6m/e/vAF//Z7ZmfL++qKsJnJi1Ws/66de+3KM75W4lGHuws3VtGUvMf7G7F/L628JaJDRJUXnt/ujSqr1j5Vt+J5N6MtpvODp1LY9ChUMmz'
+
+logging:
+  level:
+    com.jcpenney.microservices.edge.filters.pre.VersionFilter: INFO
