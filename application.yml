@@ -4,4 +4,4 @@ db:
 
 logging:
   level:
-    com.jcpenney.microservices.edge.filters.pre.VersionFilter: INFO
+    com.jcpenney.microservices.edge.filters.pre.VersionFilter: DEBUG
